@@ -1,0 +1,4 @@
+services:
+#    musicall.example:
+#        class: Olivierlb73\MusicallBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -2,4 +2,4 @@ _assetic:
     resource: .
     type: assetic
 _app:
-    resource: /home/oliviergwen/workspace/musicall/musicall/app/config/routing_dev.yml
+    resource: /home/oliviergwen/workspace/musicall/app/config/routing_dev.yml
